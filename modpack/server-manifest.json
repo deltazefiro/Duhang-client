@@ -1,0 +1,155 @@
+{
+  "name": "DuhangClient-1.18.2",
+  "author": "DuhangServer-Community",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "http://www.baidu.com",
+  "files": [
+    {
+      "path": "resourcepacks/3D.Default.1.18.v1.5.0.zip",
+      "hash": "8b3bc8945b65a2c39935062987bc375bf576a64a"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "01b271d2576cd5d84f0828bcca5ee15fc0c632ae"
+    },
+    {
+      "path": "shaderpacks/Chocapic13_V9_High.zip",
+      "hash": "be500ce143e7c010a45bb216b908c3cc9179fd92"
+    },
+    {
+      "path": "shaderpacks/Chocapic13_V9_Extreme.zip",
+      "hash": "0430c6436e0ff2fa2806474442630784cf3b2809"
+    },
+    {
+      "path": "shaderpacks/Wisdom-Shaders-3232.zip",
+      "hash": "ef0c58c1c44d0b7aab46b7b346c9fa079d894d25"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI HRR Test 2.1.zip",
+      "hash": "126896b5ea46c89c09fb16c47f995713f6551102"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI E12.zip",
+      "hash": "2e6f2870796a06cad493ea44354f10f65117392c"
+    },
+    {
+      "path": "shaderpacks/Chocapic13_V9_Low.zip",
+      "hash": "bcdf750736b3af1e7904ed7b1d4608cf9402e8ca"
+    },
+    {
+      "path": "shaderpacks/Chocapic13_V9_Ultra.zip",
+      "hash": "eed6b9a3645b3fa186b16dea102bcaf351178a45"
+    },
+    {
+      "path": "shaderpacks/Chocapic13_V9_Medium.zip",
+      "hash": "125f5aa0cc16d3d04ba86ea7afcc0e564abd5584"
+    },
+    {
+      "path": "mods/journeymap-1.18.2-5.8.5-fabric.jar",
+      "hash": "83c19923264a5f23252e42d793a3f6ae238f1295"
+    },
+    {
+      "path": "mods/wthit-fabric-4.11.0.jar",
+      "hash": "c26ef360f6246d0d13d7c19b7537548df2fa2212"
+    },
+    {
+      "path": "mods/cloth-config-6.2.62-fabric.jar",
+      "hash": "bc0f07805823fdab5c7376d8d2b314c1b109d402"
+    },
+    {
+      "path": "mods/fabric-api-0.56.0+1.18.2.jar",
+      "hash": "cda8c4d6c0ab42efbc2e5c10ad06cbab563bc728"
+    },
+    {
+      "path": "mods/indium-1.0.3+mc1.18.2.jar.disabled",
+      "hash": "a20793e65789fb9ef248d07dfd2fcd79e8afb53d"
+    },
+    {
+      "path": "mods/ferritecore-4.2.1-fabric.jar",
+      "hash": "d5d047374981d614c2a53422be751dc1491f9cd0"
+    },
+    {
+      "path": "mods/modmenu-3.2.2.jar",
+      "hash": "d581615296b1dfb72477c984a43cc6891f75eb73"
+    },
+    {
+      "path": "mods/lazydfu-0.1.2.jar",
+      "hash": "2efec5781f1271bdcdae462eee402ccb97bff6fe"
+    },
+    {
+      "path": "mods/forgetmechunk-1.0.4-1.18.X-1.19.X.jar",
+      "hash": "ed03ad25fb8cbfae4637edd5a4dd6386d9a6231e"
+    },
+    {
+      "path": "mods/CullLessLeaves-1.0.1.jar",
+      "hash": "784f03a763ae04cd4c8df4af74b10f2efbe8f186"
+    },
+    {
+      "path": "mods/roughly-enough-characters-0.0.5+1.18.2-fabric0.13.3.jar",
+      "hash": "521884ca5c020442214161012e209d994b20ea93"
+    },
+    {
+      "path": "mods/lithium-fabric-mc1.18.2-0.7.10.jar",
+      "hash": "d5c19c3d4edb4228652adcc8abb94f9bd80a634c"
+    },
+    {
+      "path": "mods/starlight-1.0.2+fabric.89b8d9f.jar",
+      "hash": "a436b72ee514bd2b59900159bcc4d461f96ef340"
+    },
+    {
+      "path": "mods/iris-mc1.18.2-1.2.5.jar",
+      "hash": "57237aeaff64a362b7b1695e18c42317d3bcf374"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-8.2.479.jar",
+      "hash": "99ca9aa0847a82d14ef50eb0d926af9f60c62a5f"
+    },
+    {
+      "path": "mods/imblockerfabric-1.0.18.jar",
+      "hash": "aac9b0a68c5ab395eb799cffdc6b38742f963007"
+    },
+    {
+      "path": "mods/MouseTweaks-fabric-mc1.18-2.22.jar",
+      "hash": "204b054b2dd027014c8dd346e64c4cd2cc1db9b0"
+    },
+    {
+      "path": "mods/badpackets-fabric-0.1.2.jar",
+      "hash": "098653c88addec413623a78c20e2f001e5647079"
+    },
+    {
+      "path": "mods/architectury-4.4.71.jar",
+      "hash": "ea5dd6c38061c7af239e674f0333e389c7fc7934"
+    },
+    {
+      "path": "mods/smoothboot-fabric-1.18.2-1.7.0.jar",
+      "hash": "3ca71bca131120dcea2b6edf4d71773f0e1f820b"
+    },
+    {
+      "path": "mods/sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
+      "hash": "f839863a6be7014b8d80058ea1f361521148d049"
+    },
+    {
+      "path": "mods/betterbiomeblend-1.18.2-1.3.5-fabric.jar",
+      "hash": "65f2441618ab91a4b0c174b3bfbde89f894b3cba"
+    },
+    {
+      "path": "mods/interactic-0.1.10+1.18.jar",
+      "hash": "f1cc9344d76bf134af7dc865a800a770b4ff8ab1"
+    },
+    {
+      "path": "mods/rer-2.5.0.jar",
+      "hash": "d645beadf4b46b1c0b4921b24adf81887b6566d3"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.18.2"
+    },
+    {
+      "id": "fabric",
+      "version": "0.14.7"
+    }
+  ]
+}
