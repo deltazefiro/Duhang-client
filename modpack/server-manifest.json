@@ -1,9 +1,9 @@
 {
-  "name": "DuhangClient-1.18.2",
-  "author": "DuhangServer-Community",
-  "version": "1.0",
+  "name": "DuhangClient",
+  "author": "DeltaZefiro",
+  "version": "1.2",
   "description": "",
-  "fileApi": "http://www.baidu.com",
+  "fileApi": "https://gitee.com/delta_zero/duhang-client/raw/master/modpack",
   "files": [
     {
       "path": "resourcepacks/3D.Default.1.18.v1.5.0.zip",
@@ -62,10 +62,6 @@
       "hash": "cda8c4d6c0ab42efbc2e5c10ad06cbab563bc728"
     },
     {
-      "path": "mods/indium-1.0.3+mc1.18.2.jar.disabled",
-      "hash": "a20793e65789fb9ef248d07dfd2fcd79e8afb53d"
-    },
-    {
       "path": "mods/ferritecore-4.2.1-fabric.jar",
       "hash": "d5d047374981d614c2a53422be751dc1491f9cd0"
     },
@@ -92,6 +88,10 @@
     {
       "path": "mods/lithium-fabric-mc1.18.2-0.7.10.jar",
       "hash": "d5c19c3d4edb4228652adcc8abb94f9bd80a634c"
+    },
+    {
+      "path": "mods/voicechat-fabric-1.18.2-2.2.45.jar",
+      "hash": "b9605c09926aac09c6f040297abb13982b11f9cb"
     },
     {
       "path": "mods/starlight-1.0.2+fabric.89b8d9f.jar",
@@ -132,6 +132,10 @@
     {
       "path": "mods/betterbiomeblend-1.18.2-1.3.5-fabric.jar",
       "hash": "65f2441618ab91a4b0c174b3bfbde89f894b3cba"
+    },
+    {
+      "path": "mods/replaymod-1.18.2-2.6.5.jar.disabled",
+      "hash": "eb2088d7aae34c4805d83242fc9b0a5e4a6cc1f5"
     },
     {
       "path": "mods/interactic-0.1.10+1.18.jar",
