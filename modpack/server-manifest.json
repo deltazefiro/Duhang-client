@@ -1,7 +1,7 @@
 {
   "name": "DuhangClient",
   "author": "DeltaZefiro",
-  "version": "1.2",
+  "version": "1.2.1",
   "description": "",
   "fileApi": "https://gitee.com/delta_zero/duhang-client/raw/master/modpack",
   "files": [
@@ -16,6 +16,10 @@
     {
       "path": "shaderpacks/Chocapic13_V9_High.zip",
       "hash": "be500ce143e7c010a45bb216b908c3cc9179fd92"
+    },
+    {
+      "path": "shaderpacks/Wisdom-Shaders-3232.zip.txt",
+      "hash": "7e044defa8517df0497ed2b34a93dae3b0baba00"
     },
     {
       "path": "shaderpacks/Chocapic13_V9_Extreme.zip",
@@ -60,6 +64,10 @@
     {
       "path": "mods/fabric-api-0.56.0+1.18.2.jar",
       "hash": "cda8c4d6c0ab42efbc2e5c10ad06cbab563bc728"
+    },
+    {
+      "path": "mods/CustomSkinLoader_Fabric-14.13.jar",
+      "hash": "14c6456035907c35604fd02d3f3b02d76ef0be35"
     },
     {
       "path": "mods/ferritecore-4.2.1-fabric.jar",
@@ -136,10 +144,6 @@
     {
       "path": "mods/replaymod-1.18.2-2.6.5.jar.disabled",
       "hash": "eb2088d7aae34c4805d83242fc9b0a5e4a6cc1f5"
-    },
-    {
-      "path": "mods/interactic-0.1.10+1.18.jar",
-      "hash": "f1cc9344d76bf134af7dc865a800a770b4ff8ab1"
     },
     {
       "path": "mods/rer-2.5.0.jar",
