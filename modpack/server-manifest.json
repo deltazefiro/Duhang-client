@@ -1,7 +1,7 @@
 {
   "name": "DuhangClient",
-  "author": "DeltaZefiro",
-  "version": "1.2.1",
+  "author": "DuhangCommunity",
+  "version": "1.2.2",
   "description": "",
   "fileApi": "https://gitee.com/delta_zero/duhang-client/raw/master/modpack",
   "files": [
@@ -90,6 +90,10 @@
       "hash": "784f03a763ae04cd4c8df4af74b10f2efbe8f186"
     },
     {
+      "path": "mods/malilib-fabric-1.18.2-0.12.1.jar",
+      "hash": "a810cf1f28751ac2681ab94a1f00b58c49884649"
+    },
+    {
       "path": "mods/roughly-enough-characters-0.0.5+1.18.2-fabric0.13.3.jar",
       "hash": "521884ca5c020442214161012e209d994b20ea93"
     },
@@ -148,6 +152,10 @@
     {
       "path": "mods/rer-2.5.0.jar",
       "hash": "d645beadf4b46b1c0b4921b24adf81887b6566d3"
+    },
+    {
+      "path": "mods/litematica-fabric-1.18.2-0.11.3.jar",
+      "hash": "df3374fad636a66cda1f1e2d351aa3e50b8ea2ba"
     }
   ],
   "addons": [
