@@ -1,17 +1,21 @@
 {
   "name": "DuhangClient",
   "author": "DuhangCommunity",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "",
   "fileApi": "https://gitee.com/delta_zero/duhang-client/raw/master/modpack",
   "files": [
+    {
+      "path": "CustomSkinLoader/CustomSkinLoader.json",
+      "hash": "f63efd2fdf57a57462d5ea8df21d0a7523b15a9d"
+    },
     {
       "path": "resourcepacks/3D.Default.1.18.v1.5.0.zip",
       "hash": "8b3bc8945b65a2c39935062987bc375bf576a64a"
     },
     {
       "path": "servers.dat",
-      "hash": "01b271d2576cd5d84f0828bcca5ee15fc0c632ae"
+      "hash": "50510c74e49e946e1db6674e34df99d1fb1b4caa"
     },
     {
       "path": "shaderpacks/Chocapic13_V9_High.zip",
