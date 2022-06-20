@@ -1,13 +1,21 @@
 {
   "name": "DuhangClient",
-  "author": "DuhangCommunity",
-  "version": "1.2.3",
+  "author": "DuhangComunity",
+  "version": "1.2.4",
   "description": "",
   "fileApi": "https://gitee.com/delta_zero/duhang-client/raw/master/modpack",
   "files": [
     {
       "path": "CustomSkinLoader/CustomSkinLoader.json",
       "hash": "f63efd2fdf57a57462d5ea8df21d0a7523b15a9d"
+    },
+    {
+      "path": "schematics/沼泽刷怪塔xgyp0620.litematic",
+      "hash": "fe78aeb1c5e32edd8b73c2595324d3b24540265e"
+    },
+    {
+      "path": "schematics/沼泽刷怪塔hsds0620.litematic",
+      "hash": "713e486067a5af283aa786d68d25ce928b2e1811"
     },
     {
       "path": "resourcepacks/3D.Default.1.18.v1.5.0.zip",
@@ -44,6 +52,10 @@
     {
       "path": "shaderpacks/Chocapic13_V9_Low.zip",
       "hash": "bcdf750736b3af1e7904ed7b1d4608cf9402e8ca"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r1.0.zip",
+      "hash": "83052cdee6e461936b49365a501980978dc201c9"
     },
     {
       "path": "shaderpacks/Chocapic13_V9_Ultra.zip",
