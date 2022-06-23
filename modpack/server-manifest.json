@@ -3,7 +3,7 @@
   "author": "DuhangCommunity",
   "version": "1.2.5",
   "description": "",
-  "fileApi": "https://gitee.com/delta_zero/duhang-client/raw/master/modpack",
+  "fileApi": "https://duhang-client.netlify.app/modpack",
   "files": [
     {
       "path": "mods/iris-mc1.18.2-1.2.5.jar",
